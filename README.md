@@ -1,4 +1,4 @@
 # Home_network_System
-홈 네트워크 시스템 Repository
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+스마트 도어락
+라즈베리파이를 기존 도어락에서 연결하여 만든 스마트 도어락 입니다.
 
